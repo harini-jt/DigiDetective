@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# tests
+tests
+
+# node_modules
+node_modules
+
+# media in backend
+media
+
